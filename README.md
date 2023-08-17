@@ -8,7 +8,7 @@ I've been working with digital marketing for about ten years, then I fell in lov
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [erickhwk@gmail.com](mailto:erickhwk@gmail.com)
-* 🧠  I'm experienced in developing fullstack applications using Ruby on Rails. Now, I'm learning ReactJS.
+* 🧠  I'm experienced in developing fullstack applications using Ruby on Rails. Now, I'm learning Java + Angular.
 * 🤝  I really love challenges and I'm so I am open to collaborating specially on projects that will challenge my skills.
 * ⚡  I'm brazilian and I can speak english. 
 
