@@ -36,3 +36,5 @@ I've been working with digital marketing for about ten years, then I fell in lov
 <p align="left">
 <a href="https://www.linkedin.com/in/erickvalente" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
 <a href="http://www.instagram.com/erickhwk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickhwk)](https://github.com/anuraghazra/github-readme-stats)
