@@ -29,10 +29,6 @@ Making a living from software development since 2022.
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/erickhwk">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erickhwk&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=radical" alt="erickhwk's GitHub stats" />
-</a>
 <a href="https://github.com/erickhwk" align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhwk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=radical" alt="Top Languages" />
 </a>
